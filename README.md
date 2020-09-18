@@ -34,5 +34,5 @@ optional arguments:
 You have to provide the path of the dataset folder by writing the following command 
 > python main.py --dataset-path <path to dataset> --kitti-base-path <path to save converted dataset> --input-dims_width <width> --input-dims_width<height>
   
-After running above cmd you get your kitti dataset
+After running above cmd you get your kitti dataset either in your specified <kitti-base-path>/kitti_data or <dataset-path>/kitti_data
 
