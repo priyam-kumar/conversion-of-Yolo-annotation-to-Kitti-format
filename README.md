@@ -11,7 +11,7 @@ Their are two file
  ->data2kitti.py
  
 open the cmd and run the below command
- > cd <downloaded folder>\Yolo_to_kitti_converter
+ > cd <downloaded folder>\conversion-of-Yolo-annotation-to-Kitti-format
  
  Now run the 
  > python main.py --help
